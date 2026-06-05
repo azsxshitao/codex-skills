@@ -18,5 +18,9 @@ https://github.com/azsxshitao/codex-skills/tree/main/skills/nn-ui-figma-restorat
 安装后重启 Codex，然后可以这样使用：
 
 ```text
-使用 nn-ui-figma-restoration，还原这个 Figma 页面：...
+在对话框中输入/，然后选择安装nn-ui-figma-restoration即可
 ```
+<img width="873" height="639" alt="image" src="https://github.com/user-attachments/assets/4c7d83f6-5935-464a-9a59-6ae321a3d2ee" />
+
+<img width="879" height="431" alt="image" src="https://github.com/user-attachments/assets/452af18b-9cbf-4d0d-8aed-073a127ce026" />
+
